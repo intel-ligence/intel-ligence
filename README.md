@@ -1,4 +1,4 @@
-- am @intel-ligence
+- am @soida-dev
 - ru/en
 - python, html, little of [c++, java, js]
 - you can (not) contact me here:
